@@ -100,7 +100,7 @@ export const ContactSection = () => {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Email</p>
-                      <p className="font-medium text-foreground">pravallika@gmail.com</p>
+                      <p className="font-medium text-foreground"> pravallikabyreddy@gmail.com</p>
                     </div>
                   </div>
                   
